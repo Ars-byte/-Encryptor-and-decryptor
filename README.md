@@ -6,7 +6,7 @@ Hi, I'm Ars. Today I'm introducing you to a message encryptor and decryptor. To 
 
 pip install cryptography
 
-pip intall tk 
+pip install tk 
 
 or 
 
