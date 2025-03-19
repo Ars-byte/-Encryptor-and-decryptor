@@ -4,9 +4,7 @@ Hi, I'm Ars. Today I'm introducing you to a message encryptor and decryptor. To 
 
 ## -Dependences :D-
 
-  chmod +x dependences.sh
-
-  ./dependences.sh
+pip install -r dependences.txt
 
 ## WARNING
 
